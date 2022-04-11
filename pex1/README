@@ -1,0 +1,4 @@
+Install wrapt_timeout_decorator module
+pip install wrapt_timeout_decorator
+
+Verbose mode for failed attempts, input y or Y when it asks
